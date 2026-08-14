@@ -1,0 +1,35 @@
+.fan-preview {
+  position: relative;
+  width: 100%;
+  max-width: 880px;
+  height: 340px;
+  margin: 0 auto;
+}
+
+.fan-card {
+  position: absolute;
+  left: 50%;
+  bottom: 40px;
+  width: 320px;
+  pointer-events: none;
+  will-change: transform;
+}
+
+.fan-phone {
+  transform: scale(0.46);
+  transform-origin: 50% 100%;
+}
+
+@media (max-width: 768px) {
+  .fan-preview {
+    height: 260px;
+  }
+
+  .fan-card {
+    bottom: 30px;
+  }
+
+  .fan-phone {
+    transform: scale(0.34);
+  }
+}

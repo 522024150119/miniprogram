@@ -1,0 +1,668 @@
+{
+  "games": [
+    {
+      "id": "1925",
+      "name": "虔诚之花的晚钟-ricordo-",
+      "name_jp": "ピオフィオーレの晩鐘",
+      "name_cn_alt": [
+        "晚钟",
+        "1925"
+      ],
+      "cover": "assets/games/game_1925/cover.webp",
+      "release_year": [
+        "2019",
+        "2020"
+      ],
+      "sort_year": "2019",
+      "company": [
+        "OTOMATE",
+        "GSE"
+      ],
+      "platform": [
+        "Nintendo Switch",
+        "PS Vita",
+        "易次元"
+      ],
+      "writer": [
+        "かずら林檎"
+      ],
+      "illustrator": [
+        "RiRi"
+      ],
+      "director": [
+        "高村旭"
+      ],
+      "producer": [],
+      "cv_list": [
+        "石川界人",
+        "森久保祥太郎",
+        "冈本信彦",
+        "木村良平",
+        "丰永利行"
+      ],
+      "official_site": "https://www.otomate.jp/piofiore/",
+      "story": "1925年，南意大利的港町。主人公是一名在教会生活的少女，因某起事件被卷入三大黑手党组织的争斗之中。",
+      "tags": [
+        "历史",
+        "黑手党",
+        "宗教"
+      ],
+      "guides_cn": true,
+      "guides_jp": true,
+      "characters": [
+        {
+          "name": "但丁",
+          "name_jp": "ダンテ・ファルツォーネ（Dante Falzone）",
+          "cv": "石川界人",
+          "avatar": "assets/games/game_1925/characters/cover_1.webp"
+        },
+        {
+          "name": "吉尔伯特",
+          "name_jp": "ギルバート・レッドフォード（Gilbert Redford）",
+          "cv": "森久保祥太郎",
+          "avatar": "assets/games/game_1925/characters/cover_2.webp"
+        },
+        {
+          "name": "杨",
+          "name_jp": "楊（Yang）",
+          "cv": "冈本信彦",
+          "avatar": "assets/games/game_1925/characters/cover_3.webp"
+        },
+        {
+          "name": "尼古拉",
+          "name_jp": "ニコラ・フランチェスカ（Nicola Francesca）",
+          "cv": "木村良平",
+          "avatar": "assets/games/game_1925/characters/cover_4.webp"
+        },
+        {
+          "name": "奥罗克",
+          "name_jp": "オルロック（Orlok）",
+          "cv": "丰永利行",
+          "avatar": "assets/games/game_1925/characters/cover_5.webp"
+        },
+        {
+          "name": "经理人",
+          "name_jp": "ディレットーレ（direttore）",
+          "cv": "立花慎之介",
+          "avatar": "assets/games/game_1925/characters/cover_6.webp"
+        },
+        {
+          "name": "Leo",
+          "name_jp": "レオ・カヴァニス（Leo Cavagnis）",
+          "cv": "土岐隼一",
+          "avatar": "assets/games/game_1925/characters/cover_7.webp"
+        },
+        {
+          "name": "Roberto",
+          "name_jp": "ロベルト・デ・フェオ（Roberto・De・Feo）",
+          "cv": "松浦义之",
+          "avatar": "assets/games/game_1925/characters/cover_8.webp"
+        },
+        {
+          "name": "Emilio",
+          "name_jp": "エミリオ（Emilio）",
+          "cv": "天﨑滉平",
+          "avatar": "assets/games/game_1925/characters/cover_9.webp"
+        },
+        {
+          "name": "Elena",
+          "name_jp": "エレナ・クローチェ（Elena・Croce）",
+          "cv": "尾崎真实",
+          "avatar": "assets/games/game_1925/characters/cover_10.webp"
+        }
+      ]
+    },
+    {
+      "id": "1926",
+      "name": "虔诚之花的晚钟-Episodio1926-",
+      "name_jp": "ピオフィオーレの晩鐘 -Episodio1926-",
+      "name_cn_alt": [
+        "1926",
+        "晚钟1926"
+      ],
+      "cover": "assets/games/game_1926/cover.webp",
+      "release_year": [
+        "2020",
+        "2022"
+      ],
+      "sort_year": "2020",
+      "company": [
+        "OTOMATE",
+        "GSE"
+      ],
+      "platform": [
+        "Nintendo Switch"
+      ],
+      "writer": [
+        "かずら林檎"
+      ],
+      "illustrator": [
+        "RiRi"
+      ],
+      "director": [
+        "高村旭"
+      ],
+      "producer": [],
+      "cv_list": [
+        "石川界人",
+        "森久保祥太郎",
+        "冈本信彦",
+        "木村良平",
+        "丰永利行"
+      ],
+      "official_site": "https://www.otomate.jp/piofiore/1926/",
+      "story": "故事发生在1926年的南意大利城市布鲁罗纳，承接前作结局，主人公与布鲁罗纳黑手党的恋人们再次被卷入危险事态，新的威胁降临，三大家族面临更大的危机。",
+      "tags": [
+        "历史",
+        "黑手党",
+        "宗教",
+        "FD"
+      ],
+      "guides_cn": true,
+      "guides_jp": true,
+      "characters": [
+        {
+          "name": "但丁",
+          "name_jp": "ダンテ・ファルツォーネ（Dante Falzone）",
+          "cv": "石川界人",
+          "avatar": "assets/games/game_1926/characters/cover_1.webp"
+        },
+        {
+          "name": "吉尔伯特",
+          "name_jp": "ギルバート・レッドフォード（Gilbert Redford）",
+          "cv": "森久保祥太郎",
+          "avatar": "assets/games/game_1926/characters/cover_2.webp"
+        },
+        {
+          "name": "杨",
+          "name_jp": "楊（Yang）",
+          "cv": "冈本信彦",
+          "avatar": "assets/games/game_1926/characters/cover_3.webp"
+        },
+        {
+          "name": "尼古拉",
+          "name_jp": "ニコラ・フランチェスカ（Nicola Francesca）",
+          "cv": "木村良平",
+          "avatar": "assets/games/game_1926/characters/cover_4.webp"
+        },
+        {
+          "name": "奥罗克",
+          "name_jp": "オルロック（Orlok）",
+          "cv": "丰永利行",
+          "avatar": "assets/games/game_1926/characters/cover_5.webp"
+        },
+        {
+          "name": "亨利",
+          "name_jp": "アンリ・ランベール（Henri Lambert）",
+          "cv": "立花慎之介",
+          "avatar": "assets/games/game_1926/characters/cover_6.webp"
+        },
+        {
+          "name": "Leo",
+          "name_jp": "レオ・カヴァニス（Leo Cavagnis）",
+          "cv": "土岐隼一",
+          "avatar": "assets/games/game_1926/characters/cover_7.webp"
+        },
+        {
+          "name": "Roberto",
+          "name_jp": "ロベルト・デ・フェオ（Roberto・De・Feo）",
+          "cv": "松浦义之",
+          "avatar": "assets/games/game_1926/characters/cover_8.webp"
+        },
+        {
+          "name": "Emilio",
+          "name_jp": "エミリオ（Emilio）",
+          "cv": "天﨑滉平",
+          "avatar": "assets/games/game_1926/characters/cover_9.webp"
+        },
+        {
+          "name": "Elena",
+          "name_jp": "エレナ・クローチェ（Elena・Croce）",
+          "cv": "尾崎真实",
+          "avatar": "assets/games/game_1926/characters/cover_10.webp"
+        },
+        {
+          "name": "Teo",
+          "name_jp": "テオ（Teo）",
+          "cv": "中岛良树",
+          "avatar": "assets/games/game_1926/characters/cover_11.webp"
+        },
+        {
+          "name": "袁",
+          "name_jp": "袁（yuan）",
+          "cv": "津田健次郎",
+          "avatar": "assets/games/game_1926/characters/cover_12.webp"
+        },
+        {
+          "name": "睿",
+          "name_jp": "睿（Rui）",
+          "cv": "滨健人",
+          "avatar": "assets/games/game_1926/characters/cover_13.webp"
+        }
+      ]
+    },
+    {
+      "id": "9r",
+      "name": "9 R.I.P.",
+      "name_jp": "9 R.I.P.（ナインリップ）",
+      "name_cn_alt": [
+        "9R",
+        "9RIP",
+        "九人安息"
+      ],
+      "cover": "assets/games/game_9r/cover.webp",
+      "release_year": [
+        "2023",
+        "2024"
+      ],
+      "sort_year": "2023",
+      "company": [
+        "OTOMATE",
+        "GSE"
+      ],
+      "platform": [
+        "Nintendo Switch"
+      ],
+      "writer": [
+        "亜文",
+        "小縞なお",
+        "長野和泉",
+        "鵜森はだし",
+        "海野凛久",
+        "ゆきみなべ",
+        "葉月ネリカ",
+        "藤川ちより",
+        "喜多南",
+        "Salala",
+        "合同会社Re",
+        "AER"
+      ],
+      "illustrator": [
+        "ユウヤ（Yuuya）"
+      ],
+      "director": [
+        "亜文"
+      ],
+      "producer": [],
+      "cv_list": [
+        "增田俊树",
+        "土岐隼一",
+        "铃木崚汰",
+        "柿原彻也",
+        "冈本信彦",
+        "立花慎之介",
+        "KENN",
+        "阿座上洋平",
+        "天﨑滉平"
+      ],
+      "official_site": "https://www.otomate.jp/9rip/",
+      "story": "以\"怪谈\"为主题的校园恐怖恋爱故事。主人公被卷入各种怪异事件中。",
+      "tags": [
+        "现代",
+        "校园",
+        "恐怖",
+        "灵异"
+      ],
+      "guides_cn": true,
+      "guides_jp": true,
+      "characters": [
+        {
+          "name": "红华",
+          "name_jp": "紅華（クレハ）",
+          "cv": "增田俊树",
+          "avatar": "assets/games/game_9r/characters/cover_1.webp"
+        },
+        {
+          "name": "響",
+          "name_jp": "響（ヒビキ）",
+          "cv": "土岐隼一",
+          "avatar": "assets/games/game_9r/characters/cover_2.webp"
+        },
+        {
+          "name": "香羊",
+          "name_jp": "香羊（コウヨウ）",
+          "cv": "铃木崚汰",
+          "avatar": "assets/games/game_9r/characters/cover_3.webp"
+        },
+        {
+          "name": "星绊",
+          "name_jp": "星絆（セナ）",
+          "cv": "柿原彻也",
+          "avatar": "assets/games/game_9r/characters/cover_4.webp"
+        },
+        {
+          "name": "魅勿鬽",
+          "name_jp": "魅ナミ（ミナミ）",
+          "cv": "冈本信彦",
+          "avatar": "assets/games/game_9r/characters/cover_5.webp"
+        },
+        {
+          "name": "圣夜",
+          "name_jp": "聖ヤ（セイヤ）",
+          "cv": "立花慎之介",
+          "avatar": "assets/games/game_9r/characters/cover_6.webp"
+        },
+        {
+          "name": "幸麿",
+          "name_jp": "幸麿（ユキマロ）",
+          "cv": "KENN",
+          "avatar": "assets/games/game_9r/characters/cover_7.webp"
+        },
+        {
+          "name": "狐春",
+          "name_jp": "狐春（コハル）",
+          "cv": "阿座上洋平",
+          "avatar": "assets/games/game_9r/characters/cover_8.webp"
+        },
+        {
+          "name": "桃嘉",
+          "name_jp": "桃嘉（トウカ）",
+          "cv": "天﨑滉平",
+          "avatar": "assets/games/game_9r/characters/cover_9.webp"
+        }
+      ]
+    },
+    {
+      "id": "9r_fd",
+      "name": "9 R.I.P. sequel",
+      "name_jp": "9 R.I.P. sequel (ナインリップ シークエル)",
+      "name_cn_alt": [
+        "9RFD"
+      ],
+      "cover": "assets/games/game_9r_fd/cover.webp",
+      "release_year": [
+        "2025",
+        "2026"
+      ],
+      "sort_year": "2025",
+      "company": [
+        "OTOMATE",
+        "GSE"
+      ],
+      "platform": [
+        "Nintendo Switch"
+      ],
+      "writer": [
+        "亜文"
+      ],
+      "illustrator": [
+        "ユウヤ（Yuuya）",
+        "喜多南",
+        "ゆきみなべ",
+        "Salala",
+        "海野凛久",
+        "藤川ちより",
+        "合同会社Re",
+        "AER"
+      ],
+      "director": [
+        "亜文"
+      ],
+      "producer": [],
+      "cv_list": [
+        "增田俊树",
+        "土岐隼一",
+        "铃木崚汰",
+        "柿原彻也",
+        "冈本信彦",
+        "立花慎之介",
+        "KENN",
+        "阿座上洋平",
+        "天﨑滉平"
+      ],
+      "official_site": "https://www.otomate.jp/9rips/",
+      "story": "本作将承接前作两种结局「终幕．天」与「终幕．神」的剧情，另外收录了番外篇「成海之滨九大不可思议」，再度与鬼怪们展开一段奇妙而诡异的恋爱故事。\n【天篇】\n承接前作「终幕．天」的结局，一段阴暗的恋爱故事就此展开。 ——因女主角离世而引发的悲剧。 ——身处不同世界却执意相恋的两人不得不面对的难题。 在「天篇」中，种种难题出现在两人面前，让他们的未来逐渐脱轨。 两人在黑暗中携手并进，最终将抵达怎样的未来——\n【神篇】\n前作「终幕．神」结局的后日谈。 启封时光的宝盒，翻开与他共度的难忘篇章。 ——充满温暖回忆的幸福岁月。 ——记忆犹新的悲伤时刻。 在「神篇」中，可以体验两人在四季更迭中共同谱写的美妙点滴。 而追忆起过往的两人「如今」的模样是——\n【番外篇】成海之滨九大不可思议\n——成海之滨流传着九大传闻。 获得了「能够看见鬼怪」的能力的女主角，从挚友咲耶果那里接到了「希望你能帮忙调查那九个传闻」的请求…… 这是在地图上来回搜集九大不可思议的假想故事。 阅读过天篇特定章节后，便可以解锁特定的九大不可思议。 在调查完所有的传闻后，究竟会发生什么呢——",
+      "tags": [
+        "现代",
+        "校园",
+        "恐怖",
+        "灵异",
+        "FD"
+      ],
+      "guides_cn": true,
+      "guides_jp": true,
+      "characters": [
+        {
+          "name": "红华",
+          "name_jp": "紅華（クレハ）",
+          "cv": "增田俊树",
+          "avatar": "assets/games/game_9r_fd/characters/cover_1.webp"
+        },
+        {
+          "name": "响",
+          "name_jp": "響（ヒビキ）",
+          "cv": "土岐隼一",
+          "avatar": "assets/games/game_9r_fd/characters/cover_2.webp"
+        },
+        {
+          "name": "香羊",
+          "name_jp": "香羊（コウヨウ）",
+          "cv": "铃木崚汰",
+          "avatar": "assets/games/game_9r_fd/characters/cover_3.webp"
+        },
+        {
+          "name": "星绊",
+          "name_jp": "星絆（セナ）",
+          "cv": "柿原彻也",
+          "avatar": "assets/games/game_9r_fd/characters/cover_4.webp"
+        },
+        {
+          "name": "魅勿鬽",
+          "name_jp": "魅ナミ（ミナミ）",
+          "cv": "冈本信彦",
+          "avatar": "assets/games/game_9r_fd/characters/cover_5.webp"
+        },
+        {
+          "name": "圣夜",
+          "name_jp": "聖ヤ（セイヤ）",
+          "cv": "立花慎之介",
+          "avatar": "assets/games/game_9r_fd/characters/cover_6.webp"
+        },
+        {
+          "name": "幸麿",
+          "name_jp": "幸麿（ユキマロ）",
+          "cv": "KENN",
+          "avatar": "assets/games/game_9r_fd/characters/cover_7.webp"
+        },
+        {
+          "name": "狐春",
+          "name_jp": "狐春（コハル）",
+          "cv": "阿座上洋平",
+          "avatar": "assets/games/game_9r_fd/characters/cover_8.webp"
+        },
+        {
+          "name": "桃嘉",
+          "name_jp": "桃嘉（トウカ）",
+          "cv": "天﨑滉平",
+          "avatar": "assets/games/game_9r_fd/characters/cover_9.webp"
+        }
+      ]
+    },
+    {
+      "id": "amnesia",
+      "name": "失忆症",
+      "name_jp": "AMNESIA（アムネシア）",
+      "name_cn_alt": [
+        "失忆症",
+        "AMNESIA"
+      ],
+      "cover": "assets/games/game_amnesia/cover.webp",
+      "release_year": [
+        "2019",
+        "2022"
+      ],
+      "sort_year": "2019",
+      "company": [
+        "OTOMATE",
+        "GSE"
+      ],
+      "platform": [
+        "Nintendo Switch",
+        "PC",
+        "PSP",
+        "PS Vita"
+      ],
+      "writer": [
+        "果村なずな",
+        "望月柚枝"
+      ],
+      "illustrator": [
+        "花邑まい（花邑舞）"
+      ],
+      "director": [
+        "島れいこ",
+        "東中ルミエ"
+      ],
+      "producer": [],
+      "cv_list": [
+        "柿原彻也",
+        "谷山纪章",
+        "石田彰",
+        "日野聪",
+        "宫田幸季"
+      ],
+      "official_site": "https://www.otomate.jp/amnesia/switch/",
+      "story": "某天醒来，你失去了所有记忆。一个名为Orion的精灵出现在你面前，你必须在不同的平行世界中找回记忆，并揭开失去记忆的真相。",
+      "tags": [
+        "现代",
+        "悬疑"
+      ],
+      "guides_cn": true,
+      "guides_jp": true,
+      "characters": [
+        {
+          "name": "SHIN",
+          "name_jp": "シン",
+          "cv": "柿原彻也",
+          "avatar": "assets/games/game_amnesia/characters/cover_1.webp"
+        },
+        {
+          "name": "IKKI",
+          "name_jp": "イッキ",
+          "cv": "谷山纪章",
+          "avatar": "assets/games/game_amnesia/characters/cover_2.webp"
+        },
+        {
+          "name": "KENT",
+          "name_jp": "ケント",
+          "cv": "石田彰",
+          "avatar": "assets/games/game_amnesia/characters/cover_3.webp"
+        },
+        {
+          "name": "TOMA",
+          "name_jp": "トーマ",
+          "cv": "日野聪",
+          "avatar": "assets/games/game_amnesia/characters/cover_4.webp"
+        },
+        {
+          "name": "UKYO",
+          "name_jp": "ウキョウ",
+          "cv": "宫田幸季",
+          "avatar": "assets/games/game_amnesia/characters/cover_5.webp"
+        }
+      ]
+    },
+    {
+      "id": "amnesia_fd1",
+      "name": "失忆症 Later×Crowd",
+      "name_jp": "AMNESIA Later×Crowd（アムネシア レイター×クラウド）",
+      "name_cn_alt": [
+        "失忆症FD1",
+        "失忆症L×C"
+      ],
+      "cover": "assets/games/game_amnesia_fd1/cover.webp",
+      "release_year": [
+        "2019",
+        "2023"
+      ],
+      "sort_year": "2019",
+      "company": [
+        "OTOMATE",
+        "GSE"
+      ],
+      "platform": [
+        "Nintendo Switch",
+        "PSP",
+        "PS Vita"
+      ],
+      "writer": [
+        "果村なずな",
+        "望月柚枝",
+        "やまだ有見",
+        "水澤なな",
+        "西村悠"
+      ],
+      "illustrator": [
+        "花邑まい（花邑舞）",
+        "夏目ウタ"
+      ],
+      "director": [
+        "島れいこ",
+        "東中ルミエ"
+      ],
+      "producer": [],
+      "cv_list": [
+        "柿原彻也",
+        "谷山纪章",
+        "石田彰",
+        "日野聪",
+        "宫田幸季",
+        "高桥英则",
+        "五十岚裕美"
+      ],
+      "official_site": "https://www.otomate.jp/amnesia/later_crowd/switch/",
+      "story": "循着记忆的戒指与蝴蝶，象征两人迈向未来的故事——本作整合了《AMNESIA LATER》及《AMNESIA CROWD》两部《失忆症-AMNESIA-》的续篇故事。\n两部续作收录了女主角找回记忆后，与可攻略角色之间的甜蜜后日谈、发生在另一个平行时空的恋爱冒险故事，以及各类小游戏等丰富内容。",
+      "tags": [
+        "现代",
+        "悬疑",
+        "FD"
+      ],
+      "guides_cn": true,
+      "guides_jp": true,
+      "characters": [
+        {
+          "name": "SHIN",
+          "name_jp": "シン",
+          "cv": "柿原彻也",
+          "avatar": "assets/games/game_amnesia_fd1/characters/cover_1.webp"
+        },
+        {
+          "name": "IKKI",
+          "name_jp": "イッキ",
+          "cv": "谷山纪章",
+          "avatar": "assets/games/game_amnesia_fd1/characters/cover_2.webp"
+        },
+        {
+          "name": "KENT",
+          "name_jp": "ケント",
+          "cv": "石田彰",
+          "avatar": "assets/games/game_amnesia_fd1/characters/cover_3.webp"
+        },
+        {
+          "name": "TOMA",
+          "name_jp": "トーマ",
+          "cv": "日野聪",
+          "avatar": "assets/games/game_amnesia_fd1/characters/cover_4.webp"
+        },
+        {
+          "name": "UKYO",
+          "name_jp": "ウキョウ",
+          "cv": "宫田幸季",
+          "avatar": "assets/games/game_amnesia_fd1/characters/cover_5.webp"
+        },
+        {
+          "name": "WAKA",
+          "name_jp": "ワカ",
+          "cv": "高桥英则",
+          "avatar": "assets/games/game_amnesia_fd1/characters/cover_6.webp"
+        },
+        {
+          "name": "ORION",
+          "name_jp": "オリオン",
+          "cv": "五十岚裕美",
+          "avatar": "assets/games/game_amnesia_fd1/characters/cover_7.webp"
+        }
+      ]
+    }
+  ]
+}
