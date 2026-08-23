@@ -159,6 +159,7 @@ h4 {
   border-radius: 16px;
   box-shadow: var(--shadow-soft);
   border: 1px solid rgba(152, 117, 126, 0.16);
+  text-align: center;
 }
 
 .stat b {
@@ -213,6 +214,19 @@ h4 {
   object-fit: cover;
   border: 2px solid var(--blue);
   box-shadow: var(--shadow-soft);
+}
+
+.stat--author .author-text {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 2px;
+}
+
+.stat--author .author-dev {
+  font-size: 12px;
+  color: var(--mauve);
+  letter-spacing: 1px;
 }
 
 .stat--author .author-name {

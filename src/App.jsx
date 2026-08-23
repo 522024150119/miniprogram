@@ -25,7 +25,7 @@ export default function App() {
         </p>
         <div className="hero-stats">
           <div className="stat">
-            <b>1.6万+</b>
+            <b>1.7万+</b>
             <span>累计用户</span>
           </div>
           <div className="stat">
@@ -38,12 +38,15 @@ export default function App() {
           </div>
           <a
             className="stat stat--author"
-            href="https://www.xiaohongshu.com/user/profile/5d03e20c00000000160395bb"
+            href="https://xhslink.cn/m/2SiNsYt3prj"
             target="_blank"
             rel="noopener noreferrer"
           >
             <img src="assets/common/kinmokusei.png" alt="金木犀头像" />
-            <span className="author-name">@金木犀</span>
+            <span className="author-text">
+              <span className="author-dev">开发者小红书</span>
+              <span className="author-name">@金木犀</span>
+            </span>
           </a>
         </div>
         <button className="home-arrow" onClick={scrollNext} aria-label="下滑">
